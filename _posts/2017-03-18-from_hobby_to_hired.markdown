@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "FROM HOBBY TO HIRED"
-date:   2017-03-18 23:50:06 +0000
+title:  "From Hobby to Hired"
+date:   2017-03-18 19:50:06 -0400
 ---
 
 
