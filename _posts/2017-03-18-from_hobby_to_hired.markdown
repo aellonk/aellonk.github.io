@@ -11,4 +11,3 @@ Coding languages are constantly evolving and I want to be on the forefront of em
 
 I am forever grateful for all of the free online tutorials that make learning to code so accessible to anyone with an internet connection. After learning on my own for some time now, I could really benefit from a mentor and a structured curriculum to fill the gaps in my knowledge. That’s where the highly esteemed Flatiron School comes in. I’ve been awarded a Women Take Tech scholarship from Birchbox to enroll in Flatiron School’s Online Web Developer program. With the help of this program I hope to become employed as a full stack web developer. This is Day 1 and I’m excited to take my education to the next level!
 
-test
