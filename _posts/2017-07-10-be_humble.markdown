@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Be Humble."
+date:   2017-07-10 17:09:47 +0000
+---
+
+
+Prior to beginning the full-stack program at the Flatiron School, I had taught myself the ins and outs of HTML & CSS, along with Git and Github and already coded a handful of websites. Although I breezed through those sections in the curriculum, I did learn some important fundamentals along the way and finished as a more humble budding developer.
+
+To start, I learned that it is a good practice to link to [Modernizr.js](https://modernizr.com/) and [Normalize.css](https://necolas.github.io/normalize.css/) for older browser support, and that the proper folder organization for a site is as follows:
+
+![](http://i.imgur.com/DpVLHDvm.png)
+
+In the HTML section, I learned the methods for sending information in a `<form></form>`. The `method="get"` is used when we want to get back particular content from the server. That content is visible in the URL so it is not good to use for passwords. Responses are listed in the query string parameters, whereas with `method="post"` information is sent as form data and does not appear in the URL, so it is the best option for sending passwords. 
+ 
+In the CSS section, I learned the crucial inheritance rules. 
+
+**ID** overrules **Class**
+
+**Class** overrules **Type**
+
+**Type** overrules **Universal**
+
+
+While moving through the Git & Github section, I learned more terminal commands. Previously I used `git add file.html` for each individual file I wanted to track for a single commit, but I found out that I can simply type `git add .` and it will include everything in the directory. I also feel more comfortable initializing repositories and connecting my remote repository on Github with my local repository on my computer. I am also more proficient in navigating files and folders using terminal commands including `mkdir <directory name>` to make a new directory and `touch <file name>` to make a new file. I remember being overwhelmed by Git at one time but now I don't know how I would live without it. Version control has already saved me on my solo websites so I can only imagine how important it is on a large collaborative project. I can't wait to collaborate!
