@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CLI Gem to Find Adventures"
-date:       2017-11-30 06:08:45 +0000
+date:       2017-11-30 01:08:46 -0500
 permalink:  cli_gem_to_find_adventures
 ---
 
@@ -41,4 +41,4 @@ That's it! I found Corinna's study groups really helpful for this project. The s
 
 It is a placeholder so if the webpage doesn't contain some of that information when scraping it won't break the program. 
 
-Problem solving is my favorite part of coding so even though I got stuck here and there throughout the project, I embraced those times. I used the recommended resources and a lot of Stack Overflow to try many possible solutions until one worked. I'm looking forward to the constructive feedback. In case you want to check out the gem on github the repo is located [here](https://github.com/aellonk/adventures).
+Problem solving is my favorite part of coding so even though I got stuck here and there throughout the project, I embraced those times. I used the recommended resources and a lot of Stack Overflow to try many possible solutions until one worked. I'm looking forward to the constructive feedback. In case you want to check out the gem on github the repo is located [here](https://github.com/aellonk/adventures), and a demo of the gem is [here](https://vimeo.com/245310033).
