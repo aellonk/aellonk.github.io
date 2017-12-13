@@ -6,7 +6,7 @@ permalink:  cli_gem_to_find_adventures
 ---
 
 
-I just finished coding a Ruby CLI gem to find outdoor adventures in any state based on an activity. It scrapes data from [The Outbound Collective](https://www.theoutbound.com/) website. I frequent this site to find recommended hikes and I've even [posted](https://www.theoutbound.com/aellon) a few. 
+I coded a Ruby CLI gem to find outdoor adventures in any state based on an activity. It scrapes data from [The Outbound Collective](https://www.theoutbound.com/) website. I frequent this site to find recommended hikes and I've even [posted](https://www.theoutbound.com/aellon) a few. 
 
 At first I was overwhelmed by the CLI Data Gem project. I ended up completing the whole next section of the curriculum on SQL before going back to tackle it. After I watched Avi's [daily deal](https://www.youtube.com/watch?v=_lDExWIhYKI) gem walkthrough video and browsed the references provided, such as the [World's Best Restaurants gem](https://github.com/dannyd4315/worlds-best-restaurants-cli-gem), I felt ready to start coding. I found that I was more motivated than ever and I looked forward to working on it each day. 
 
