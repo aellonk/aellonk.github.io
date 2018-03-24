@@ -14,7 +14,7 @@ I browsed some Flatiron student blogs to see how they fared with their projects 
 
 I'm currently aspiring to be a member of the [Catskill 3500 Club](http://catskill-3500-club.org/) by hiking to the peaks of all 35 mountains in the New York Catskills with elevation above 3500 feet. I was using a spreadsheet to track my progress before I came up with the idea for my Sinatra portfolio project - the Catskill 3500 Tracker. After signing in, I can see the list of peaks I've hiked, add new ones, and edit or delete them too. I can also view the peaks other users have hiked. 
 
-I really want to make this project into a live site at some point to share with friends, so I added a bit of styling. I also got carried away with adding features, such as a dropdown menu for the possible peaks. 
+I really want to make this project into a live site at some point to share with friends, so I added a bit of styling using Bootstrap. I also got carried away with adding features, such as a dropdown menu for the possible peaks. 
 
 ![](https://media.giphy.com/media/3PyvQJONLWa58U2WzP/giphy.gif)
 
