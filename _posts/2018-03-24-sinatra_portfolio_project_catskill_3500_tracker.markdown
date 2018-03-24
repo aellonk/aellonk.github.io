@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra Portfolio Project: Catskill 3500 Tracker"
-date:       2018-03-24 23:20:50 +0000
+date:       2018-03-24 19:20:51 -0400
 permalink:  sinatra_portfolio_project_catskill_3500_tracker
 ---
 
