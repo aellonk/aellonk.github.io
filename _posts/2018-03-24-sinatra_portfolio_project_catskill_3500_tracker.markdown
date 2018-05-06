@@ -27,5 +27,5 @@ validates :email,    :presence => true,
                      :uniqueness => true
 ```
 
-I learned so much throughout the process of creating the Catskill 3500 Tracker. I'm excited to revisit the project in the future to add features and improve the code using the knoweldge I gain from the upcoming sections in the curriculum. 
+I learned so much throughout the process of creating the Catskill 3500 Tracker. I'm excited to revisit the project in the future to add features and improve the code using the knoweldge I gain from the upcoming sections in the curriculum. A preview of the Catskill 3500 Tracker is located [here](https://vimeo.com/262105025).
 
