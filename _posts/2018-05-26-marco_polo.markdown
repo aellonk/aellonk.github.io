@@ -6,7 +6,7 @@ permalink:  marco_polo
 ---
 
 
-Sometimes learning to code feels like a game of Marco Polo. I'm swimming in a pool of methods trying to find the right one. In this post I'll lift the blindfold and expose the difference between the `.find` and the `.find_by` Active Record methods. 
+Sometimes learning to code feels like a game of Marco Polo. I'm swimming in a pool of methods trying to find the right one. Though in this post I'll lift the blindfold and expose the difference between the `.find` and the `.find_by` Active Record methods. 
 
 The [.find](http://api.rubyonrails.org/v5.2.0/classes/ActiveRecord/FinderMethods.html#method-i-find) and [.find_by_id](https://www.rubydoc.info/github/jnicklas/capybara/Capybara%2FNode%2FFinders:find_by_id) methods both search for an object in the database that matches an ID in the argument. The [.find_by](http://api.rubyonrails.org/v5.2.0/classes/ActiveRecord/FinderMethods.html#method-i-find_by) method also does the same search when the argument is ID. So in an effort to keep the code [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) and as minimal as possible, your initial coding instinct might be to use the `.find` method if you are searching by ID. **What happens if the record matching the ID isn't found?** This is where we take a look behind the scenes and shine a spotlight on the differences between these methods. 
 
