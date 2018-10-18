@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails Portfolio Project: Tabletop Tracker"
-date:       2018-10-09 20:29:43 +0000
+date:       2018-10-09 16:29:44 -0400
 permalink:  rails_portfolio_project_tabletop_tracker
 ---
 
@@ -19,5 +19,7 @@ A simple reminder that goes a long way - utilize all of your resources, and if y
 The project's [spec.md](https://github.com/learn-co-students/rails-assessment-v-000/blob/master/spec.md) file lists all of the requirements, but I also made a personalized to-do list with the steps needed to fulfill them, which helped me stay on track and cross off small victories. I went to study groups, and had three [1:1 meetings](https://theflatironschool.typeform.com/to/B9BrgH) with technical coaches for project support. If you are in Flatiron School's Online Web Developer program I highly recommend scheduling at least one. Having another pair of eyes on the project helped me realize I was missing a few important things, such as a Readme in the repository. It's like a mock assessment before the real deal and can be extremely helpful.
 
 I'm excited to build upon this project in the future to share with friends and hopefully one day at [Pax Unplugged](http://unplugged.paxsite.com/)!
+
+Click here to see a [demo](https://vimeo.com/295713380) of Tabletop Tracker.
 
 
