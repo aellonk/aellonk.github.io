@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "1st Time Hackathoners for the Win!"
-date:       2019-03-05 06:33:29 +0000
+date:       2019-03-05 01:33:32 -0500
 permalink:  1st_time_hackathoners_for_the_win
 ---
 
@@ -15,7 +15,7 @@ HackItTogether started at 8:30am and I met my teammates in person for the first 
 On the back end we used Ruby on Rails and used Nokogiri to scrape volunteer project information from [International VolunteerHQ](https://www.volunteerhq.org/). We implemented Bootstrap for a quick and easy front end design. I worked on the architecture of the app by creating the models, some seed data. I also implemented Bootstrap in the layout and worked on the landing page. 
 
 **THE CHALLENGES** <br>
-1.  *Collaboration* Using github to collaborate is a wonderful thing, but since we are all used to coding individually this was a challenge for us. Thankfully we did figure out how to merge all of our work, with the help of the [Atlassian](https://www.atlassian.com/git/tutorials/syncing/git-pull) resource. We also learned how to delegate the parts of the project so we could all contribute and be efficient with our time. 
+1.  *Collaboration* - Using github to collaborate is a wonderful thing, but since we are all used to coding individually this was a challenge for us. Thankfully we did figure out how to merge all of our work, with the help of the [Atlassian](https://www.atlassian.com/git/tutorials/syncing/git-pull) resource. We also learned how to delegate the parts of the project so we could all contribute and be efficient with our time. 
 2.  *Scraping* - We originally tried finding an API for volunteering opportunities to no avail. Scraping is a scrappy way of getting the job done, and we had trouble pulling all of the objects in but ended up getting it to work enough for our demo. 
 3.  *Technical Difficulties* - We were called up to present our project as the first of 22 submissions, and we had technical difficulties hooking up to the projector. We ended up having to present to just the judges. On top of that, Robin's mousepad quit working and we needed an emergency mouse loan from a fellow competitor. 
 
