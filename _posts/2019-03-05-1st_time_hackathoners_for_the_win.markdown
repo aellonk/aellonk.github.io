@@ -24,9 +24,15 @@ On the back end we used Ruby on Rails and used Nokogiri to scrape volunteer proj
 2. *Experience* - Now I know what to expect from a hackathon, and I love it! It was an emotional rollercoaster of excitement and jittery nerves and I loved every second of it. I loved working under pressure and collaborating to bring an idea to fruition. None of us could have built it in one day on our own so it was cool to realize what we were able to do by joining forces. 
 3. *Winning* -  Our project won the JetBlue challenge and we were shocked! There were so many amazing submissions so we did not expect to win. I was proud of what we built and thought the hackathon was a success overall, but winning was icing on the cake. We each won two round trip flight tickets! Not bad for a group of 1st time hackathoners. 
 
+**THE TRICKS**
+1. *Adapt* - You don't know what kind of challenges will arise during a hackathon. You have to be flexible and adapt to any situation whether it be a broken laptop or a pesky bug. See the bigger picture and move forward. 
+2. *Listen* - Everyone will bring different ideas to the table and it's to your benefit to stay open-minded and listen to everyone's points. It may just be a winning idea, and you're all in it together. 
+3. *Learn* - This is almost impossible to not do, but ideally you will walk away from each hackathon with some new knowledge. Reflect on that! 
+4. *Have fun* - Yes a hackathon can be stressful at times, especially the last couple of hours. But make sure to take a step back and enjoy the journey! 
 
-View the Github repo [here](https://github.com/aellonk/hackittogether). <br>
-Learn more about our project and view demo photos [here](https://devpost.com/software/all-you-can-give-back).
+
+View our Github repo [here](https://github.com/aellonk/hackittogether). <br>
+Learn more about our winning project and view demo photos [here](https://devpost.com/software/all-you-can-give-back).
 
 Here were are with the JetBlue judges after they announced that we won! 
 
