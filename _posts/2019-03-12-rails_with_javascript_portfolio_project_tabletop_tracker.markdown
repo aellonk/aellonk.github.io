@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails with JavaScript Portfolio Project: Tabletop Tracker"
-date:       2019-03-12 15:35:17 +0000
+date:       2019-03-12 11:35:18 -0400
 permalink:  rails_with_javascript_portfolio_project_tabletop_tracker
 ---
 
@@ -45,4 +45,5 @@ Next I'd like to refactor the code for more efficiency and better legibility. I 
 
 **More Info** <br>
 [Github Repo](https://github.com/aellonk/tabletoptracker)
+[Video Walkthrough](https://vimeo.com/323238200)
 
