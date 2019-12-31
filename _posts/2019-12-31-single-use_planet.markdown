@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Single-use Planet"
-date:       2019-12-31 06:39:23 +0000
+date:       2019-12-31 01:39:24 -0500
 permalink:  single-use_planet
 ---
 
