@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Multilingual Magic"
-date:       2020-04-10 23:58:27 +0000
+date:       2020-04-10 19:58:28 -0400
 permalink:  multilingual_magic
 ---
 
