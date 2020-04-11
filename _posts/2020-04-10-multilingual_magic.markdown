@@ -49,8 +49,7 @@ Make a new div with a class of ```.tab-content``` and add three divs inside, eac
                 <h5 class="text-dark-red alert-content"><?php the_field('spanish'); ?></h5>
             </a>
         </div>
-</div>
-```
+</div>```
 
 
 Next time we will connect it to the Wordpress backend in order to pull in content dynamically. Stay tuned!
