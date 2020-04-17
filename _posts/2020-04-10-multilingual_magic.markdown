@@ -10,7 +10,7 @@ I'm currently building a site using Wordpress and Bootstrap that will have the o
 
 I am already using Bootstrap in the project, so it is easy to implement Bootstrap tabs using the class `.nav-tabs ` on top of the base `.nav` component. I could have used tabs or pills because they just have different styling. Since I am going to change the styling anyway, I went with tabs for fun. 
 
-`
+```
 <ul class="nav nav-tabs" id="alertTab" role="tablist">
      <li class="nav-item">
          <a class="nav-link active" id="english-tab" data-toggle="tab" href="#english" role="tab" aria-controls="english" aria-selected="true">EN</a>
@@ -24,7 +24,7 @@ I am already using Bootstrap in the project, so it is easy to implement Bootstra
          <a class="nav-link" id="spanish-tab" data-toggle="tab" href="#spanish" role="tab" aria-controls="spanish" aria-selected="false">SP</a>
      </li>
 </ul>
-`
+```
 
 An important [note on accessibility from Bootstrap](https://getbootstrap.com/docs/4.4/components/navs/#javascript-behavior):
 > Dynamic tabbed interfaces, as described in the WAI ARIA Authoring Practices, require role="tablist", role="tab", role="tabpanel", and additional aria- attributes in order to convey their structure, functionality and current state to users of assistive technologies (such as screen readers).
