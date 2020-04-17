@@ -33,7 +33,7 @@ There is a tab for English, Spanish, and Russian, and I'm using simple vertical 
 
 Make a new div with a class of `.tab-content` and add three divs inside, each with a `.tab-pane` class and a unique ID for every tab that will correspond to the href element in each of the tabs above.
 
-`
+```
 <div class="tab-content" id="alertTabContent">
         <div class="tab-pane fade show active" id="english" role="tabpanel" aria-labelledby="english-tab">
             <a href="<?php echo esc_url( get_permalink($id) ); ?>">
@@ -51,7 +51,7 @@ Make a new div with a class of `.tab-content` and add three divs inside, each wi
             </a>
         </div>
 </div>
-`
+```
 
 
 Next time we will connect it to the Wordpress backend in order to pull in content dynamically. Stay tuned!
