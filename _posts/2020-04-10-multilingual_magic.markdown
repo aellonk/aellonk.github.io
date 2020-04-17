@@ -10,7 +10,7 @@ I'm currently building a site using Wordpress and Bootstrap that will have the o
 
 I am already using Bootstrap in the project, so it is easy to implement Bootstrap tabs using the class ```.nav-tabs ``` on top of the base ```.nav``` component. I could have used tabs or pills because they just have different styling. Since I am going to change the styling anyway, I went with tabs for fun. 
 
-```html 
+```
 <ul class="nav nav-tabs" id="alertTab" role="tablist">
      <li class="nav-item">
          <a class="nav-link active" id="english-tab" data-toggle="tab" href="#english" role="tab" aria-controls="english" aria-selected="true">EN</a>
@@ -32,7 +32,7 @@ There is a tab for English, Spanish, and Russian, and I'm using simple vertical 
 
 Make a new div with a class of ```.tab-content``` and add three divs inside, each with a ```.tab-pane``` class and a unique ID for every tab that will correspond to the href element in each of the tabs above.
 
-```html
+```
 <div class="tab-content" id="alertTabContent">
         <div class="tab-pane fade show active" id="english" role="tabpanel" aria-labelledby="english-tab">
             <a href="<?php echo esc_url( get_permalink($id) ); ?>">
