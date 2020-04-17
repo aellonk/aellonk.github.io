@@ -23,7 +23,8 @@ I am already using Bootstrap in the project, so it is easy to implement Bootstra
      <li class="nav-item">
          <a class="nav-link" id="spanish-tab" data-toggle="tab" href="#spanish" role="tab" aria-controls="spanish" aria-selected="false">SP</a>
      </li>
-</ul>```
+</ul>
+```
 
 An important [note on accessibility from Bootstrap](https://getbootstrap.com/docs/4.4/components/navs/#javascript-behavior):
 > Dynamic tabbed interfaces, as described in the WAI ARIA Authoring Practices, require role="tablist", role="tab", role="tabpanel", and additional aria- attributes in order to convey their structure, functionality and current state to users of assistive technologies (such as screen readers).
