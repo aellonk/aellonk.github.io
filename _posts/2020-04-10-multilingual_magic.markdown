@@ -10,8 +10,7 @@ I'm currently building a site using Wordpress and Bootstrap that will have the o
 
 I am already using Bootstrap in the project, so it is easy to implement Bootstrap tabs using the class `.nav-tabs ` on top of the base `.nav` component. I could have used tabs or pills because they just have different styling. Since I am going to change the styling anyway, I went with tabs for fun. 
 
-```
-<ul class="nav nav-tabs" id="alertTab" role="tablist">
+`<ul class="nav nav-tabs" id="alertTab" role="tablist">
      <li class="nav-item">
          <a class="nav-link active" id="english-tab" data-toggle="tab" href="#english" role="tab" aria-controls="english" aria-selected="true">EN</a>
      </li>
@@ -23,8 +22,7 @@ I am already using Bootstrap in the project, so it is easy to implement Bootstra
      <li class="nav-item">
          <a class="nav-link" id="spanish-tab" data-toggle="tab" href="#spanish" role="tab" aria-controls="spanish" aria-selected="false">SP</a>
      </li>
-</ul>
-```
+</ul>`
 
 An important [note on accessibility from Bootstrap](https://getbootstrap.com/docs/4.4/components/navs/#javascript-behavior):
 > Dynamic tabbed interfaces, as described in the WAI ARIA Authoring Practices, require role="tablist", role="tab", role="tabpanel", and additional aria- attributes in order to convey their structure, functionality and current state to users of assistive technologies (such as screen readers).
@@ -33,8 +31,7 @@ There is a tab for English, Spanish, and Russian, and I'm using simple vertical 
 
 Make a new div with a class of `.tab-content` and add three divs inside, each with a `.tab-pane` class and a unique ID for every tab that will correspond to the href element in each of the tabs above.
 
-```
-<div class="tab-content" id="alertTabContent">
+`<div class="tab-content" id="alertTabContent">
         <div class="tab-pane fade show active" id="english" role="tabpanel" aria-labelledby="english-tab">
             <a href="<?php echo esc_url( get_permalink($id) ); ?>">
                 <h5 class="text-dark-red alert-content"><?php  the_content(); ?></h5>
@@ -50,8 +47,7 @@ Make a new div with a class of `.tab-content` and add three divs inside, each wi
                 <h5 class="text-dark-red alert-content"><?php the_field('spanish'); ?></h5>
             </a>
         </div>
-</div>
-```
+</div>`
 
 
 Next time we will connect it to the Wordpress backend in order to pull in content dynamically. Stay tuned!
