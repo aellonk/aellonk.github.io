@@ -1,15 +1,14 @@
 # Site settings
+author: Aellon
 title: Abracodeabra
 header-img: img/home-bg.png
 email: aellonkrider@gmail.com
-copyright_name: aellonk
+copyright_name: Aellon
 description: > # this means to ignore newlines until "baseurl:"
   magic tricks for code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: Aellon
 github_username:  aellonk
-learn_profile: aellonk
-email_username: aellonkrider@gmail.com
 
 # Build settings
 markdown: kramdown
